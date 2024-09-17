@@ -24,6 +24,10 @@ This is a simple web-based **50/30/20 Saving Calculator** that helps users divid
    `git clone https://github.com/aKoolKev/budgetCalculator.git`
 2. Open `index.html` in your browser to use the calculator.
 
+  or 
+
+URL: 'https://akoolkev.github.io/budgetCalculator/'
+
 ## Future Improvements
 - Adding currency formatting for different regions.
 - Implementing mobile responsiveness.
