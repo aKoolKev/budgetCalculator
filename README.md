@@ -21,7 +21,7 @@ This is a simple web-based **50/30/20 Saving Calculator** that helps users divid
 
 ## Setup
 1. Clone this repository:  
-   `git clone https://github.com/yourusername/50-30-20-calculator.git`
+   `git clone https://github.com/aKoolKev/budgetCalculator.git`
 2. Open `index.html` in your browser to use the calculator.
 
 ## Future Improvements
